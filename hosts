@@ -1,0 +1,11 @@
+# ==========================================================
+# hi, that is hosts file to block google ota 🐈‍⬛
+#
+# title: sunfish-hosts
+# date: 23 july 2025 18:54 (utc)
+# source: https://github.com/cub-has-injected/sunfish-hosts/
+# ==========================================================
+0.0.0.0 ota.googlezip.net
+0.0.0.0 ota-cache1.googlezip.net
+0.0.0.0 ota-cache2.googlezip.net
+0.0.0.0 r2---sn-4g5lznl6.gvt1.com
